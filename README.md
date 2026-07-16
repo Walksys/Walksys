@@ -39,6 +39,23 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ---
 
+## 🖥 Infrastructure & OS
+*Environments I frequently deploy and manage:*
+
+### Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+**Supported Distributions:**
+• Ubuntu 24.04 LTS • Ubuntu 22.04 LTS
+• Debian 12 (Bookworm) • Debian 11 (Bullseye)
+
+### Virtualization
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-2196F3?style=for-the-badge&logo=server-fault&logoColor=white)
+
+---
+
 ## 🚀 Projects
 
 ### 🎮 Minecraft Hosting Panels
@@ -63,6 +80,6 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ---
 
-### 🔗 Connect
+## 🔗 Connect
 • **Portfolio:** [walksys.qzz.io](https://walksys.qzz.io)  
 • **Discord:** [walksys.dev](https://discord.com/users/walksys.dev)
