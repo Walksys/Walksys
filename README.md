@@ -56,6 +56,17 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ---
 
+## 🎮 Gaming & Competencies
+*Mastering competitive environments and high-intensity gameplay:*
+
+• **Minecraft Crystal PvP Specialist** 💎 (Expertise in high-level mechanics)
+• **Minecraft Competitive Warfare Strategy** ⚔️
+• **Server Network Management** 🌐
+
+---
+
+---
+
 ## 🚀 Projects
 
 ### 🎮 Minecraft Hosting Panels
