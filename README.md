@@ -21,9 +21,9 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
- ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express.js&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,13 +41,15 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ## 🚀 Projects
 
-### Minecraft Hosting Panels
-*Expertise in deploying and managing hosting ecosystems:*
-• Pterodactyl Panel • Puffer Panel • Draco Panel • Dragon Panel • OverSee Panel • Hydra Panel • Skyport Panel
+### 🎮 Minecraft Hosting Panels
+*Expertise in deploying and managing game server ecosystems:*
+* **Pterodactyl Panel** | **Puffer Panel** | **Draco Panel**
+* **Dragon Panel** | **OverSee Panel** | **Hydra Panel** | **Skyport Panel**
 
-### Discord Bot Development
-*Modular and highly available bot architectures:*
-• System Bot • Music Bot • Ticket Bot • Giveaway Bot • Game Bot • Buy Roles Bot • Buy Server Bot
+### 🤖 Discord Bot Development
+*Modular, highly available, and feature-rich bot architectures:*
+* **System Bot** ⚙️ | **Music Bot** 🎵 | **Ticket Bot** 🎫
+* **Giveaway Bot** 🎉 | **Game Bot** 🎮 | **Buy Roles Bot** 💎 | **Buy Server Bot** 🛒
 
 ---
 
