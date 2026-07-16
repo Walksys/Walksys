@@ -59,10 +59,10 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 ## 🎮 Gaming & Competencies
 *Mastering competitive environments and high-intensity gameplay:*
 
-• **💎 Minecraft Crystal PvP Specialist** (Expertise in high-level mechanics)
-• **⚔️ Minecraft Competitive Warfare Strategy**
+- **💎 Minecraft Crystal PvP Specialist** (Expertise in high-level mechanics)
+- **⚔️ Minecraft Competitive Warfare Strategy**
 
-• **🌐 Server Network Management**
+- **🌐 Server Network Management**
 
 ---
 
@@ -70,13 +70,13 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ### 🎮 Minecraft Hosting Panels
 *Expertise in deploying and managing game server ecosystems:*
-* **Pterodactyl Panel** | **Puffer Panel** | **Draco Panel**
-* **Dragon Panel** | **OverSee Panel** | **Hydra Panel** | **Skyport Panel**
+- **Pterodactyl Panel** | **Puffer Panel** | **Draco Panel**
+- **Dragon Panel** | **OverSee Panel** | **Hydra Panel** | **Skyport Panel**
 
 ### 🤖 Discord Bot Development
 *Modular, highly available, and feature-rich bot architectures:*
-* **System Bot** ⚙️ | **Music Bot** 🎵 | **Ticket Bot** 🎫
-* **Giveaway Bot** 🎉 | **Game Bot** 🎮 | **Buy Roles Bot** 💎 | **Buy Server Bot** 🛒
+- **System Bot** ⚙️ | **Music Bot** 🎵 | **Ticket Bot** 🎫
+- **Giveaway Bot** 🎉 | **Game Bot** 🎮 | **Buy Roles Bot** 💎 | **Buy Server Bot** 🛒
 
 ---
 
@@ -91,5 +91,5 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 ---
 
 ## 🔗 Connect
-• **Portfolio:** [walksys.qzz.io](https://walksys.qzz.io)  
-• **Discord:** [walksys.dev](https://discord.com/users/walksys.dev)
+- **Portfolio:** [walksys.qzz.io](https://walksys.qzz.io)  
+- **Discord:** [walksys.dev](https://discord.com/users/walksys.dev)
