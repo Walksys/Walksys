@@ -2,8 +2,8 @@
 
 # Hi, I'm WalksysDev
 
-**Bot Developer**  
-Building reliable and scalable Discord bots with clean architecture.
+**Full-Stack & Bot Developer**  
+Building reliable and scalable Discord bots with clean architecture and crafting responsive web interfaces.
 
 ---
 
@@ -11,13 +11,14 @@ Building reliable and scalable Discord bots with clean architecture.
 
 • 🎓 Student  
 • 🤖 Discord bot developer  
+• 🌐 Web Developer  
 • 🗣️ Primary spoken language: English - Arabic
 
 ---
 
 ## Connect
 
-• 🧩 Portfolio: walksys.qzz.io  
+• 🧩 Portfolio: [walksys.qzz.io](https://walksys.qzz.io)  
 • 💬 Discord: walksys.dev  
 
 ---
@@ -25,6 +26,8 @@ Building reliable and scalable Discord bots with clean architecture.
 ## Tech Stack
 
 ### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -34,11 +37,10 @@ Building reliable and scalable Discord bots with clean architecture.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Tools
+### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
@@ -47,7 +49,6 @@ Building reliable and scalable Discord bots with clean architecture.
 
 ---
 
-## Notes
-
-Clean code over clever code.  
-Bots should scale, not break.
+## Philosophy
+> Clean code over clever code.  
+> Bots should scale, not break.
