@@ -47,8 +47,8 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 **Supported Distributions:**
-• Ubuntu 24.04 LTS • Ubuntu 22.04 LTS
-• Debian 12 (Bookworm) • Debian 11 (Bullseye)
+- Ubuntu 24.04 LTS • Ubuntu 22.04 LTS
+- Debian 12 (Bookworm) • Debian 11 (Bullseye)
 
 ### Virtualization
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
