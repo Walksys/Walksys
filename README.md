@@ -65,8 +65,6 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ---
 
----
-
 ## 🚀 Projects
 
 ### 🎮 Minecraft Hosting Panels
