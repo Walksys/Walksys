@@ -63,6 +63,6 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 
 ---
 
-## 🔗 Connect
+### 🔗 Connect
 • **Portfolio:** [walksys.qzz.io](https://walksys.qzz.io)  
-• **Discord:** walksys.dev
+• **Discord:** [walksys.dev](https://discord.com/users/walksys.dev)
